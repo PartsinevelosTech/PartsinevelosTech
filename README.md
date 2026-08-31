@@ -1,21 +1,21 @@
-## Hey there 👋🏻 my name is Marios Partsinevelos ##
+# Hi there, I'm Marios Partsinevelos 👋🏻
 
-An Aspiring Software Engineer with a developing background in Electronics Engineering, Computer Science, IT and Web Development. 
+Detail-oriented Technical Operations Specialist and aspiring Software Engineer, open to work remotely, full-time opportunities.
 
-Currently transitioning into the tech field bringing transferable skills while expanding technical expertise through study and practical projects.
+### 🔭 Current Focus
+* 🎓 Completing the **Full-Stack Python & Web Development Bootcamp** at Workearly Academy.
+* 🛠️ Building operational automation scripts using **Python** and database logic with **SQL**.
+* 🌐 Developing responsive web components with **HTML5, CSS3, and JavaScript**.
 
-Eager to contribute to a collaborative team while growing as a professional in the software industry.
+### 💼 Technical Skill Set
+* **Languages:** Python, SQL, JavaScript, HTML5, CSS3, React.
+* **Tools & Platforms:** Git, GitHub, VS Code, Linux/Windows Systems.
+* **Certifications:** ECDL Expert, LRN B2 English.
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+### 📫 You can contact me at:
+* **LinkedIn:** [linkedin.com/in/mariospartsinevelos](https://www.linkedin.com/in/mariospartsinevelos)
+* **Email:** mariospartsinevelos03@gmail.com
 
-## Information About Me 🧔🏻
-
-📧 You can contact me thru email at mariospartsinevelos03@gmail.com
-
-🔧 I am currently working on some projects I want to upload and show to the world.
-
-📚 I am learning Web Development and more thinks everyday because knowledge is a beautiful think to have.
-
-🧐 Interested in Programming, Software Development, Web Development, and building thinks to help people and companies alike.
-
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+### 🧔🏻 About Me
+* 🧐 Interested in Programming, Software Development, Web Development, and building thinks to help people and companies alike.
+* 📚 I am learning new thinks everyday because knowledge is a beautiful think to have.
