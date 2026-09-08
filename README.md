@@ -19,3 +19,4 @@ Detail-oriented Technical Operations Specialist and aspiring Software Engineer, 
 ### 🧔🏻 About Me
 * 🧠 Interested in Programming, Software Development, Web Development, and building thinks to help people and companies alike.
 * 📚 I am learning new thinks everyday because knowledge is a beautiful think to have.
+* 🔧 I am currently working on some projects I want to upload to the world.
