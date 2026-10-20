@@ -1,6 +1,6 @@
 # Hi there, I'm Marios Partsinevelos 👋🏻
 
-Detail-oriented Technical Operations Specialist and aspiring Software Engineer, open to work remotely, full-time opportunities.
+I'm a Web Developer, IT, Computer Engineer, Electronic & Hardware Specialist. Open to work remotely show my skills and learn new things.
 
 ### 🧐 Current Focus
 * 🎓 Completing the **Full-Stack Python & Web Development Bootcamp** at Workearly Academy.
