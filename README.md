@@ -10,7 +10,7 @@ I'm a Web Developer, IT, Computer Engineer, Electronic & Hardware Specialist. Op
 ### 🔧 Technical Skill Set
 * **Languages:** Python, SQL, JavaScript, HTML5, CSS3, React.
 * **Tools & Platforms:** Git, GitHub, VS Code, Linux/Windows Systems.
-* **Certifications:** ECDL Expert, LRN B2 English.
+* **Certifications:** ECDL Expert, Electronic Engineer Diploma from Vocational High School (EPAS), Computer and Computer Network Technician from Vocational High School (EPAL) LRN B2 English.
 
 ### 📧 You can contact me at:
 * **LinkedIn:** [linkedin.com/in/mariospartsinevelos](https://www.linkedin.com/in/mariospartsinevelos)
