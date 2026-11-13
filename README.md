@@ -17,6 +17,6 @@ I'm a Web Developer, IT, Computer Engineer, Electronic & Hardware Specialist. Op
 * **Email:** mariospartsinevelos03@gmail.com
 
 ### 🧔🏻 About Me
-* 🧠 Interested in Programming, Software Development, Web Development, and building thinks to help people and companies alike.
-* 📚 I am learning new thinks everyday because knowledge is a beautiful think to have.
+* 🧠 Interested in Programming, Software Development, Web Development and building things to help people and companies alike.
+* 📚 I am learning new things everyday because knowledge is a beautiful thing to have.
 * 🔧 I am currently working on some projects I want to upload to the world.
